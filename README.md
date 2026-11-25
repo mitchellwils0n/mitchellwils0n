@@ -13,6 +13,36 @@ I enjoy working across different areas of software development, from application
 - **Blockchain & Web3:** Decentralized applications, smart contract integrations and blockchain-powered products.
 - **Backend Development:** APIs, databases, authentication and scalable systems.
 
+### Tech Stack & Technologies
+
+**Programming Languages**
+- Dart, JavaScript, Python, HTML, CSS
+
+**Frontend Development**
+- React, Next.js, Angular
+
+**Mobile Development**
+- Flutter, FlutterFlow, React Native, Expo, Android Native
+
+**Backend & Cloud**
+- Node.js, Firebase, Supabase
+
+**Databases**
+- PostgreSQL, MySQL, Firestore, SQLite
+
+**AI & Blockchain**
+- OpenAI API, AI Agents, Ethereum, Web3.js, Ethers.js
+
+**Developer Tools & Design**
+- Git, GitHub, VS Code, Figma
+
+### Currently Learning & Exploring
+
+- Solidity and smart contract development
+- JavaScript and Python
+- React and modern frontend development
+- Node.js and backend engineering
+
 ### What I'm Focused On
 
 - Building functional software products and real-world applications.
